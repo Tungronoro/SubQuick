@@ -1,0 +1,56 @@
+================================================================================
+KHAI BÁO THƯ VIỆN BÊN THỨ BA / THIRD-PARTY LICENSES
+================================================================================
+
+Tệp này liệt kê các thư viện và thành phần bên thứ ba được sử dụng trong bản
+phát hành SUBQUICK để ứng dụng hoạt động.
+
+This file lists the third-party libraries and components used by the released
+SUBQUICK application at runtime.
+
+1. CustomTkinter
+----------------
+Mục đích / Purpose: Cung cấp giao diện đồ họa cho ứng dụng / Provides the
+application's graphical user interface.
+Giấy phép / License: MIT License.
+Trang dự án / Project: https://github.com/TomSchimansky/CustomTkinter
+
+2. Pillow
+----------
+Mục đích / Purpose: Đọc, xử lý và hiển thị hình ảnh / Reads, processes, and
+displays images.
+Giấy phép / License: HPND (Historical Permission Notice and Disclaimer).
+Trang dự án / Project: https://github.com/python-pillow/Pillow
+Giấy phép / License text: https://github.com/python-pillow/Pillow/blob/main/LICENSE
+
+3. Requests
+------------
+Mục đích / Purpose: Gửi yêu cầu HTTP đến các dịch vụ phụ đề / Sends HTTP
+requests to subtitle services.
+Giấy phép / License: Apache License 2.0.
+Trang dự án / Project: https://github.com/psf/requests
+Giấy phép / License text: https://github.com/psf/requests/blob/main/LICENSE
+
+4. 7-Zip command-line utilities
+--------------------------------
+Mục đích / Purpose: Giải nén các gói phụ đề được tải về / Extracts downloaded
+subtitle packages.
+Thành phần / Components: Các tệp 7z.exe và 7z.dll được đóng gói trong thư mục
+runtime của SUBQUICK / The 7z.exe and 7z.dll files bundled with SUBQUICK.
+Giấy phép / License: GNU LGPL với các điều khoản bổ sung liên quan đến mã unRAR
+(nếu áp dụng) / GNU LGPL with additional terms concerning the unRAR code, where
+applicable.
+Trang dự án / Project: https://www.7-zip.org/
+Giấy phép / License text: https://www.7-zip.org/license.txt
+
+================================================================================
+Ghi chú / Notice
+================================================================================
+
+Các giấy phép và điều khoản đầy đủ của từng thành phần được áp dụng theo bản
+phát hành tương ứng được phân phối cùng SUBQUICK. Người dùng có thể truy cập
+các liên kết chính thức ở trên để xem văn bản giấy phép hiện hành.
+
+The full license terms for each component apply according to the corresponding
+versions distributed with SUBQUICK. Refer to the official links above for the
+applicable license texts.
