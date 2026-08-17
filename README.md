@@ -5,11 +5,19 @@
 
   <sub>Search subtitles from SubSource and SubDL in one simple application.</sub>
 </p> <p align="center">
-  <a href="#english">English</a> · <a href="#tiếng-việt">Tiếng Việt</a>
+  <a href="https://github.com/Tungronoro/SubQuick/releases">Download the latest release</a>
+  ·
+  <a href="#english">English</a>
+  ·
+  <a href="#tiếng-việt">Tiếng Việt</a>
+</p>
+
+## Giao diện / Interface
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/4e6a3dda-f10a-489b-8cf3-853c6e33c27d" alt="SUBQUICK configuration interface" width="900">
 </p> <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e6a3dda-f10a-489b-8cf3-853c6e33c27d" alt="SUBQUICK Step 1" width="900">
-</p> <p align="center">
-  <img src="https://github.com/user-attachments/assets/7f63948b-8c2d-498a-9675-70dfc4605044" alt="SUBQUICK subtitle results" width="900">
+  <img src="https://github.com/user-attachments/assets/7f63948b-8c2d-498a-9675-70dfc4605044" alt="SUBQUICK subtitle results interface" width="900">
 </p>
 
 ## English
@@ -33,11 +41,11 @@
 
 ### Installation
 
-1. Download the latest `SUBQUICK_Setup_1.0.0.exe` file from the **Releases** page.
+1. Open the [Releases page](https://github.com/Tungronoro/SubQuick/releases).
 
-1. Run the Setup file and select **Install**.
+1. Download the latest `SUBQUICK_Setup_1.0.0.exe` file from the **Assets** section.
 
-1. Follow the instructions on the screen.
+1. Run the Setup file, select **Install**, and follow the instructions on the screen.
 
 1. Launch SUBQUICK from the Desktop shortcut or the Start Menu.
 
@@ -78,11 +86,11 @@ The Setup package includes the required components. No additional installation i
 
 ### Hướng dẫn cài đặt
 
-1. Tải file `SUBQUICK_Setup_1.0.0.exe` mới nhất từ trang **Releases**.
+1. Mở [trang Releases](https://github.com/Tungronoro/SubQuick/releases).
 
-1. Chạy file Setup và chọn **Install**.
+1. Tải file `SUBQUICK_Setup_1.0.0.exe` mới nhất trong mục **Assets**.
 
-1. Làm theo hướng dẫn trên màn hình.
+1. Chạy file Setup, chọn **Install** và làm theo hướng dẫn trên màn hình.
 
 1. Mở SUBQUICK từ shortcut trên Desktop hoặc Start Menu.
 
@@ -102,9 +110,11 @@ Bản Setup đã có sẵn các thành phần cần thiết. Người dùng khô
 
 ---
 
-## Support
+## Hỗ trợ / Support
 
 If SUBQUICK is useful to you, please consider giving the repository a star on GitHub. Your support helps the project reach more users.
+
+Nếu SUBQUICK hữu ích với bạn, hãy cân nhắc tặng repository một ngôi sao trên GitHub. Sự ủng hộ của bạn giúp dự án tiếp cận nhiều người dùng hơn.
 
 <p align="center">
 Created by <strong>Nguyễn Thanh Tùng</strong>
