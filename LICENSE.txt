@@ -1,0 +1,43 @@
+================================================================================
+GIẤY PHÉP SỬ DỤNG PHẦN MỀM ĐỘC QUYỀN (PROPRIETARY LICENSE)
+================================================================================
+
+[TIẾNG VIỆT]
+Bản quyền (cấp phép) thuộc về Nguyễn Thanh Tùng. Mọi quyền được bảo lưu.
+
+Việc phân phối phần mềm này chỉ giới hạn ở dạng tệp cài đặt thực thi (setup.exe) 
+do tác giả cung cấp chính thức. 
+
+BẠN KHÔNG ĐƯỢC PHÉP:
+1. Dịch ngược (Decompile), tháo rời (Disassemble), giải mã, hoặc cố gắng trích xuất 
+   mã nguồn gốc của phần mềm này dưới mọi hình thức.
+2. Sửa đổi, cho thuê, cho mượn, bán, phân phối lại hoặc tạo ra các sản phẩm phái sinh 
+   dựa trên phần mềm này hoặc bất kỳ phần nào của nó.
+3. Xóa bỏ hoặc thay đổi bất kỳ thông báo bản quyền nào có trong phần mềm.
+
+PHẦN MỀM ĐƯỢC CUNG CẤP "NHƯ VẬY", KHÔNG CÓ BẤT KỲ HÌNH THỨC BẢO ĐẢM NÀO, RÕ RÀNG 
+HAY NGỤ Ý. TRONG MỌI TRƯỜNG HỢP, TÁC GIẢ HOẶC CHỦ SỞ HỮU BẢN QUYỀN SẼ KHÔNG CHỊU 
+TRÁCH NHIỆM CHO BẤT KỲ THIỆT HẠI NÀO (BAO GỒM NHƯNG KHÔNG GIỚI HẠN Ở THIỆT HẠI 
+DO MẤT DỮ LIỆU, LỢI NHUẬN HOẶC GIÁN ĐOẠN KINH DOANH) PHÁT SINH TỪ VIỆC SỬ DỤNG 
+HOẶC KHÔNG THỂ SỬ DỤNG PHẦN MỀM NÀY.
+
+--------------------------------------------------------------------------------
+
+[ENGLISH]
+Copyright (c) 2026 Nguyễn Thanh Tùng. All rights reserved.
+
+Distribution of this software is restricted strictly to the compiled setup 
+executable file (setup.exe) provided officially by the author.
+
+YOU ARE NOT ALLOWED TO:
+1. Decompile, disassemble, reverse engineer, or attempt to extract the source 
+   code of this software in any way.
+2. Modify, rent, lease, sell, redistribute, or create derivative works based 
+   upon this software or any part of it.
+3. Remove or alter any proprietary notices or labels on the software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR 
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE 
+OR OTHER DEALINGS IN THE SOFTWARE.
